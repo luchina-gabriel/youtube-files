@@ -21,7 +21,7 @@
       "type": "grafana",
       "id": "grafana",
       "name": "Grafana",
-      "version": "8.5.1"
+      "version": "8.5.2"
     },
     {
       "type": "panel",
@@ -81,7 +81,7 @@
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1651775476609,
+  "iteration": 1651872602014,
   "links": [],
   "liveNow": false,
   "panels": [
@@ -102,7 +102,7 @@
         "content": "Conteúdo|Link para acesso\n:----|:----\nCanal YouTube|https://universohackintosh.com\nDiscord|https://universohackintosh.com/DISCORD\nOSX-Proxmox|https://osx-proxmox.com\nGitHub|https://github.com/luchina-gabriel\n",
         "mode": "markdown"
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "title": "Painel de monitoramento - Universo Hackintosh",
       "type": "text"
     },
@@ -168,7 +168,7 @@
         "text": {},
         "textMode": "auto"
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "alias": "$col",
@@ -253,7 +253,7 @@
         "text": {},
         "textMode": "value"
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "alias": "$col",
@@ -341,7 +341,7 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": false
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "alias": "$col",
@@ -460,7 +460,7 @@
         "text": {},
         "textMode": "value"
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "alias": "$col",
@@ -551,7 +551,7 @@
         "text": {},
         "textMode": "value"
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "alias": "$col",
@@ -1142,8 +1142,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -1259,8 +1258,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -1290,7 +1288,7 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": true
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "datasource": {
@@ -1341,8 +1339,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "blue",
-                "value": null
+                "color": "blue"
               }
             ]
           }
@@ -1368,7 +1365,7 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": true
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "datasource": {
@@ -1419,8 +1416,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "yellow",
-                "value": null
+                "color": "yellow"
               }
             ]
           },
@@ -1447,7 +1443,7 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": true
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "datasource": {
@@ -1498,8 +1494,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "yellow",
-                "value": null
+                "color": "yellow"
               }
             ]
           },
@@ -1526,7 +1521,7 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": true
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "datasource": {
@@ -1619,8 +1614,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -1735,8 +1729,7 @@
             "mode": "percentage",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               }
             ]
           },
@@ -1763,7 +1756,7 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": true
       },
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "targets": [
         {
           "alias": "$col",
@@ -1890,8 +1883,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2047,8 +2039,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2178,8 +2169,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2321,7 +2311,7 @@
         "alertThreshold": true
       },
       "percentage": false,
-      "pluginVersion": "8.5.1",
+      "pluginVersion": "8.5.2",
       "pointradius": 2,
       "points": false,
       "renderer": "flot",
@@ -2476,8 +2466,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -2590,8 +2579,8 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Universo Hackintosh",
+  "title": "Painel de monitoramento do macOS - Universo Hackintosh",
   "uid": "uuR2ud_7z",
-  "version": 72,
+  "version": 3,
   "weekStart": ""
 }
